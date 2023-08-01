@@ -1,0 +1,6 @@
+server:
+  port: 8999
+zaf:
+  api:
+    access-key: zaf
+    secret-key: abcde
